@@ -1,7 +1,8 @@
 h1 {
 
     color:#841010;
-    font-family: "Monteserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
+
 
 }
 
@@ -27,9 +28,13 @@ body {
 }
 header{
     text-align: center;
-    background-color: aquamarine;
+    background-color: #7fffd4;
 }
 .imggrid{
     display: inline-grid;
     grid-template-columns: 10fr 2fr;
+}
+footer{
+    text-align: center;
+    background-color: #7fffd4;
 }
