@@ -12,3 +12,19 @@ body {
     text-align: center;
     background-color: lightblue;
 }
+.topbar{
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    list-style: none;
+}
+.topbar a{
+    padding: 20px
+}
+
+.welcometext{
+    font-size: 75px;
+}
+header{
+    text-align: center;
+}
