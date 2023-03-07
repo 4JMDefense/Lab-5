@@ -41,6 +41,13 @@ footer{
 
 .courses{
     display:grid;
+
+}
+
+.item-wrap{
+    margin-bottom: 50px;
+    border-bottom: solid black;
+
 }
 
 
@@ -55,7 +62,7 @@ footer{
 }
 @media screen and (min-width:900px) {
     .courses{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns:1fr 1fr;
     }
 }
 
